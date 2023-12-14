@@ -19,4 +19,4 @@ With an image: ![Washington Park in Portland, Oregon](https://www.touristbee.com
 hopefully still sub heading
 
 ## Back to h2
-Proper heading now.
+Proper heading now. Let's [link to the second page](second.html).
